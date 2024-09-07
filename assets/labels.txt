@@ -1,0 +1,7 @@
+0 CPU
+1 GPU
+2 RAM
+3 MB
+4 M2
+5 SATA
+6 HDD
